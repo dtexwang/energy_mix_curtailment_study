@@ -1,0 +1,42 @@
+,original,lumped
+0,COAL,coal
+1,NATURAL GAS,gas
+2,INTERFACE,imported
+3,HEAVY OIL,oil
+4,LIGHT OIL,oil
+5,nan,unknown
+6,JET A,oil
+7,WIND,wind
+8,MISC,misc
+9,LFG,biogas
+10,MSW,biomass
+11,NUCLEAR,nuclear
+12,NATURALGAS,gas
+13,HYDRO,hydro
+14,WAT,hydro
+15,KEROSENE,oil
+16,DIESEL,oil
+17,WASTE COAL,coal
+18,BATTERY,battery
+19,SOLAR,solar
+20,Coal,coal
+21,Natural Gas,gas
+22,Waste Coal,coal
+23,Wind,wind
+24,Uranium,nuclear
+25,Miscellaneous,misc
+26,Solar,solar
+27,Heavy Oil,oil
+28,Municipal Waste,biomass
+29,Min Gen/Dispatch Reset,MGE
+30,Light Oil,oil
+31,Missing Data,unknown
+32,Kerosene,oil
+33,Land Fill Gas,biogas
+34,Diesel,oil
+35,Demand Response,DR
+36,Virtual Sale at NY,virtualsale
+37,Virtual Sale at MISO,virtualsale
+38,Biomass,biomass
+39,Propane,oil
+40,Jet Oil,oil
